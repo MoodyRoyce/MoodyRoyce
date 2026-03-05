@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoodyRoyce
-- 📫 How to reach me -> MoodyRoyce.com
+- 📫 How to reach me -> mail@mudasser.de
 
 <!---
 MoodyRoyce/MoodyRoyce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
